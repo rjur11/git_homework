@@ -3,3 +3,5 @@
 
 1. Strategy 1: Block out time specifically to complete HW
 2. Strategy 2: Practice command line and git at least 10-15 mins every day.
+
+Shoutout to my cat Linus for keeping my lap warm during my homework sessions!
