@@ -5,3 +5,6 @@
 2. Strategy 2: Practice command line and git at least 10-15 mins every day.
 
 Shoutout to my cat Linus for keeping my lap warm during my homework sessions!
+
+In Mod0S3 we needed to add a new thought.
+I'm sleepy.
